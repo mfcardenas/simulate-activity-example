@@ -1,10 +1,10 @@
-# PHAT Example Monitoring Activity [02]
-Use of acceleration sensors and smart phone to monitor basic activities in a user.
+# Example Monitoring Activity
+Use of acceleration sensors to monitor basic activities in a user.
 
 The sensors are located in:
-- Chest (Smart phone)
+- Chest (Sensor Acceleration)
 - Left hand (Sensor Acceleration)
-- Right hand. (Sensor Acceleration)
+- Right Leg. (Sensor Acceleration)
 
 <table>
 <tr>
